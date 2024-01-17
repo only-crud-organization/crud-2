@@ -1,2 +1,2 @@
 # crud-2
-PostgreSQL, PHP, Vue.js
+PostgreSQL, PHP, Laravel, Vue.js
