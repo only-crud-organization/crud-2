@@ -23,8 +23,8 @@ class UpdateprodutosRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'name' => 'required|string|max:200',
-            'price' => 'required|numeric',
+            'name' =>   'required|string|max:200',
+            'price' =>  'required|numeric',
         ];
     }
     public function failedValidation(\Illuminate\Contracts\Validation\Validator $validator)

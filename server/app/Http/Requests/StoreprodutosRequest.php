@@ -30,10 +30,12 @@ class StoreprodutosRequest extends FormRequest
         ];
     }
 
+
     // Retorna pra JSON 
     public function failedValidation(\Illuminate\Contracts\Validation\Validator $validator)
     {
         $response = response()->json(['error' => $validator->errors()], Response::HTTP_UNPROCESSABLE_ENTITY);
         throw new \Illuminate\Validation\ValidationException($validator, $response);
     }
+ 
 }
