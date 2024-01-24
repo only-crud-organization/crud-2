@@ -15,6 +15,7 @@
     <a href="#project-reqs">Requisitos do projeto</a> ●
      <a href="#project-setup">Como testar</a> 
 </div>
+
 <br/>
 
 <p align="center">
@@ -31,32 +32,35 @@
     </b>
 </p>
 
+<p></p>
+
 <div  align="center">
-<img src="./assets/crud-img-1.png" align="center" width=600/>
+<img src="./assets/crud-img-1.png" align="center" width=700/>
 
-</br>
+<p></p>
+    
+<img src="./assets/crud-img-2.png" align="center" width=700/>
 
-<img src="./assets/crud-img-2.png" align="center" width=600/>
+<p></p>
 
-</br>
+<img src="./assets/crud-img-3.png" align="center" width=700/>
 
-<img src="./assets/crud-img-3.png" align="center" width=600/>
+<p></p>
 
-</br>
+<img src="./assets/crud-img-4.png" align="center" width=700/>
 
-<img src="./assets/crud-img-4.png" align="center" width=600/>
+<p></p>
 
-</br>
+<img src="./assets/crud-img-5.png" align="center" width=700/>
 
-<img src="./assets/crud-img-5.png" align="center" width=600/>
+<p></p>
 
-</br>
+<img src="./assets/crud-img-6.png" align="center" width=700/>
 
-<img src="./assets/crud-img-6.png" align="center" width=600/>
-</br>
-
+<p></p>
 </div>
-<h2 id="stack">Stack</h2>
+
+<h2 id="stack">📚 Stack</h2>
 
 <h4>CRUD 2:</h4>
 
@@ -67,7 +71,7 @@
 * Vue.js
 
 
-<h2 id="project-reqs">Requisitos de projeto</h2>
+<h2 id="project-reqs">📌 Requisitos de projeto</h2>
 
 <h4>Como funciona o projeto 'only crud'</h4>
 
@@ -101,7 +105,7 @@ sem entender do que trata
 * Todo o processo de desenvolvimento deve ser gravado em live
 * A aplicação deve ser feita ao vivo
 
-<h2 id="project-setup">Setup do Projeto</h2>
+<h2 id="project-setup">🚀 Setup do Projeto</h2>
 <h3>⚠️ Pré-requisitos</h3>
 
 Para rodar a aplicação, certifique-se de ter instalado:
@@ -152,19 +156,19 @@ Então, para testar o backend da aplicação ou ligar o servidor, utilize:
 <h3>Cliente</h3>
 
 Navegue até a pasta '/client':
-```bash
+```node
     cd client
 ```
 
 Instale as dependências utilizando ```npm``` ou ```yarn```:
-```bash
+```node
     npm i
 ```
 
 <h2>Como rodar</h1>
 
 Por fim, após ligar o servidor, teste a aplicação com o comando:
-```bash
+```node
     npm run dev
 ```
 
