@@ -165,7 +165,7 @@ Instale as dependências utilizando ```npm``` ou ```yarn```:
     npm i
 ```
 
-<h2>Como rodar</h1>
+<h2>Como testar</h1>
 
 Por fim, após ligar o servidor, teste a aplicação com o comando:
 ```node
