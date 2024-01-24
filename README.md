@@ -1,40 +1,45 @@
 <h1 align="center">CRUD APP 2 🗂️</h1>
 
 
-<div align="center" id="resume>
-
+<div align="center">
+    
 [![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-</div>
 
 <div align="center">
-    <a href="#resume">Resumo</a> ●
-    <a href="#stack">Tecnologias usadas</a> ●
-    <a href="#project-reqs">Requisitos do projeto</a> ●
-     <a href="#project-setup">Como testar</a> 
+    <a href="#summary">PT-BR</a> ●
+    <a href="https://github.com/only-crud-organization/crud-2/blob/main/README(EN).md">EN</a> 
 </div>
 
 <br/>
 
+<div align="center">
+    <a href="#summary">Resumo</a> ●
+    <a href="#stack">Tecnologias usadas</a> ●
+    <a href="#project-reqs">Requisitos do projeto</a> ●
+    <a href="#project-setup">Como testar</a> 
+</div>
+
+<br/>
+<h2 align="center" id="summary">Resumo</h2>
+
 <p align="center">
   <b>Segundo repositório do projeto <a href="https://github.com/only-crud-organization">
   Only Crud
-  </a>, onde desenvolvo o mesmo projeto com stacks diferentes para avaliar e comparar o desempenho de cada uma, assim como os pontos positivos e negativos do seu uso. 
+  </a>, onde desenvolvo a mesma aplicação com stacks diferentes para avaliar e comparar o desempenho de cada uma, assim como os pontos positivos e negativos do seu uso. 
   </b>
 </p>
-<p align="center">
 
 <p align="center">
-    <b>
-    O processo todo foi documentado em live, e o resultado será postado posteriormente em minhas redes sociais! Conecte-se comigo no <a href="https://www.linkedin.com/in/gabrielfneves/">Linkedin</a> para saber o resultado final!
-    </b>
+    O processo todo foi documentado em live, e o resultado será postado posteriormente em minhas redes sociais! Conecte-se comigo no <b><a href="https://www.linkedin.com/in/gabrielfneves/">Linkedin</a></b> para saber o resultado final!
 </p>
 
-<p></p>
+<br/>
 
 <div  align="center">
+    
 <img src="./assets/crud-img-1.png" align="center" width=700/>
 
 <p></p>
