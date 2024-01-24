@@ -9,6 +9,13 @@
 </div>
 
 <div align="center">
+    <a href="#summary">PT-BR</a> ●
+    <a href="https://github.com/only-crud-organization/crud-2/blob/main/README(EN).md">EN</a> 
+</div>
+
+<br/>
+
+<div align="center">
     <a href="#summary">Summary</a> ●
     <a href="#stack">Used Technologies</a> ●
     <a href="#project-reqs">Project Requirements</a> ●
