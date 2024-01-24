@@ -32,23 +32,29 @@
 </p>
 
 <div  align="center">
-<img src="./assets/crud-img-1.png" align="center" width=450/>
+<img src="./assets/crud-img-1.png" align="center" width=600/>
 
 </br>
-<img src="./assets/crud-img-2.png" align="center" width=450/>
+
+<img src="./assets/crud-img-2.png" align="center" width=600/>
 
 </br>
-<img src="./assets/crud-img-3.png" align="center" width=450/>
+
+<img src="./assets/crud-img-3.png" align="center" width=600/>
 
 </br>
-<img src="./assets/crud-img-4.png" align="center" width=450/>
+
+<img src="./assets/crud-img-4.png" align="center" width=600/>
 
 </br>
-<img src="./assets/crud-img-5.png" align="center" width=450/>
+
+<img src="./assets/crud-img-5.png" align="center" width=600/>
 
 </br>
-<img src="./assets/crud-img-6.png" align="center" width=450/>
+
+<img src="./assets/crud-img-6.png" align="center" width=600/>
 </br>
+
 </div>
 <h2 id="stack">Stack</h2>
 
