@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-    <a href="#summary">PT-BR</a> ●
-    <a href="https://github.com/only-crud-organization/crud-2/blob/main/README(EN).md">EN</a> 
+    <a href="https://github.com/only-crud-organization/crud-2">PT-BR</a> ●
+    <a href="#summary">EN</a> 
 </div>
 
 <br/>
